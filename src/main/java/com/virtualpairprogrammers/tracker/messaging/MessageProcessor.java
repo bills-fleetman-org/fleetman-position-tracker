@@ -37,6 +37,7 @@ public class MessageProcessor {
 							  .build();
 				                          
 		data.updatePosition(newReport);
+
 	}
 
 }
